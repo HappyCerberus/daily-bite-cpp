@@ -7,6 +7,6 @@ Therefore, if you want to find posts talking about a specific topic, a simple se
 
 ## List
 
-| Number | Keywords | LinkedIn | Mastodon | Medium | Substack |
-|---     |---       |---       |---       |---     |---       |
-| 1 | `std::equal_range` | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7015738608712044544/) | [Link](https://hachyderm.io/@simontoth/109620913797164208) | [Link](https://medium.com/@simontoth/daily-bit-e-of-c-1-20dc3cfac63) | [Link](https://simontoth.substack.com/p/daily-bite-of-c-1) |
+| Number | Keywords | LinkedIn | Mastodon | Medium | Substack | Compiler Explorer |
+|---     |---       |---       |---       |---     |---       | ---               |
+| 1 | `std::equal_range` | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7015738608712044544/) | [Link](https://hachyderm.io/@simontoth/109620913797164208) | [Link](https://medium.com/@simontoth/daily-bit-e-of-c-1-20dc3cfac63) | [Link](https://simontoth.substack.com/p/daily-bite-of-c-1) | [Link](https://godbolt.org/z/EPdoEdGYW) |
