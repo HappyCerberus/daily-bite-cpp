@@ -10,3 +10,4 @@ Therefore, if you want to find posts talking about a specific topic, a simple se
 | Number | Keywords | LinkedIn | Mastodon | Medium | Substack | Compiler Explorer |
 |---     |---       |---       |---       |---     |---       | ---               |
 | 1 | `std::equal_range` | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7015738608712044544/) | [Link](https://hachyderm.io/@simontoth/109620913797164208) | [Link](https://medium.com/@simontoth/daily-bit-e-of-c-1-20dc3cfac63) | [Link](https://simontoth.substack.com/p/daily-bite-of-c-1) | [Link](https://godbolt.org/z/EPdoEdGYW) |
+| 2 | IQ: Trapped Water | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7016101216220762112/) | [Link](https://hachyderm.io/@simontoth/109626576231244637) | [Link](https://medium.com/@simontoth/daily-bit-e-of-c-trapped-water-fb9d37b5f4ac) | [Link](https://simontoth.substack.com/p/daily-bite-of-c-trapped-water) | [Link](https://godbolt.org/z/azoMjE4cc) |
