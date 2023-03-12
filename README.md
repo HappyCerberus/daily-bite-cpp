@@ -153,6 +153,42 @@ These posts are short-form C++ information posts.
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7036032206162534400-4khh), [Mastodon](https://hachyderm.io/@simontoth/109938003389933838)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-shuffle-95cea01179ae), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdshuffle)
     - [Compiler Explorer](https://compiler-explorer.com/z/5ncMTxb9E)
+- `59.` Opaque enum declarations
+    - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7036756981600124928), [Mastodon](https://hachyderm.io/@simontoth/109949327802424728)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-opaque-enum-declaration-128dc4d8a4fb), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-opaque-enum-declaration)
+    - [Compiler Explorer](https://compiler-explorer.com/z/nd1M3vhcj)
+- `60.` `std::for_each`, `std::ranges::for_each`
+    - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7037119371239936001), [Mastodon](https://hachyderm.io/@simontoth/109954990130647534)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-for-each-130273b2cad4), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdfor_each)
+    - [Compiler Explorer](https://compiler-explorer.com/z/Mrhrn77aT)
+- `61.` Monostate pattern
+    - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7037481759902441472), [Mastodon](https://hachyderm.io/@simontoth/109960652407194869)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-monostate-pattern-f795bdd5b432), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-monostate-pattern)
+    - [Compiler Explorer](https://compiler-explorer.com/z/veE3vfo7P)
+- `62.` `std::swap` (correct customization)
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7037844146723721216-kVvR), [Mastodon](https://hachyderm.io/@simontoth/109966314706482978)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-customizing-swap-2e11004a4752), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-customizing-swap)
+    - [Compiler Explorer](https://compiler-explorer.com/z/65r144hfs)
+- `64.` `std::variant`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7038568928373043200-MaNc), [Mastodon](https://hachyderm.io/@simontoth/109977639331916602)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-variant-55aca2629502), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdvariant)
+    - [Compiler Explorer](https://compiler-explorer.com/z/4ojWEb9o1)
+- `66.` `std::visit`, `std::variant`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7039293697242365952-Nr3A), [Mastodon](https://hachyderm.io/@simontoth/109988964198109067)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-visit-8c995fbfb6c1), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdvisit)
+    - [Compiler Explorer](https://compiler-explorer.com/z/bxT1Ke3oE)
+- `67.` Defaulted comparison operators, spaceship operator
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7039656086047457280-2Y-6), [Mastodon](https://hachyderm.io/@simontoth/109994626576387409)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-defaulted-comparison-operators-780af7547f42), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-defaulted-comparison)
+    - [Compiler Explorer](https://compiler-explorer.com/z/Gv93cMEsn)
+- `68.` `std::transform_reduce`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7040018474349285377-ugb6), [Mastodon](https://hachyderm.io/@simontoth/110000288739013874)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-transform-reduce-ae7a3772e848), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdtransform_reduce)
+    - [Compiler Explorer](https://compiler-explorer.com/z/aYxcfT1Kn)
+- `69.` Ref-qualified member functions (methods)
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7040380865629093888-vrWA), [Mastodon](https://hachyderm.io/@simontoth/110005950920004818)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-ref-qualified-methods-bc2c3cdbe52), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-ref-qualified-methods)
+    - [Compiler Explorer](https://compiler-explorer.com/z/Ezxsxbnb8)
 
 ## Long-form articles
 
@@ -182,7 +218,7 @@ These posts are common interview problems with a CE link for solving the problem
     - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7016101216220762112/), [Mastodon](https://hachyderm.io/@simontoth/109626576231244637)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-trapped-water-fb9d37b5f4ac), [SubStack](https://simontoth.substack.com/p/daily-bite-of-c-trapped-water)
     - Compiler Explorer: [Solve it yourself](https://godbolt.org/z/hKx7773qM), [Solution](https://godbolt.org/z/azoMjE4cc)
-- `7.` Bounding ball
+- `7.` Bouncing ball
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7017912875969044480-45ko), [Mastodon](https://hachyderm.io/@simontoth/109654887683753170)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-bouncing-ball-1569ef3fb419), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-bouncing-ball)
     - Compiler Explorer: [Solve it yourself](https://godbolt.org/z/9x6PsheEW), [Solution](https://godbolt.org/z/Yxnb48nK1)
@@ -242,3 +278,15 @@ These posts are common interview problems with a CE link for solving the problem
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7035669819194531840-Dwym), [Mastodon](https://hachyderm.io/@simontoth/109932340916628077)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-maximum-number-of-points-on-a-line-20af6d2443f8), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-maximum-number-of)
     - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/ej4GhGx3b), [Solution](https://compiler-explorer.com/z/6EWGh59rj)
+- `58.` N-Queens
+    - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7036394596158840832), [Mastodon](https://hachyderm.io/@simontoth/109943665649579666)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-n-queens-b5e0c0d2275f), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-n-queens)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/EvK7hEsf4), [Solution](https://compiler-explorer.com/z/7xKdqezbE)
+- `63.` Minimum substring that contains letters
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7038206533796552705-SpWj), [Mastodon](https://hachyderm.io/@simontoth/109971977021929210)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-minimum-substring-with-all-letters-619ca68da1a6), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-minimum-substring)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/T8ojbYh1r), [Solution](https://compiler-explorer.com/z/hx8aGrW69)
+- `65.` MaxStack data structure
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7038931309720690688-v6CJ), [Mastodon](https://hachyderm.io/@simontoth/109983301729299275)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-maxstack-data-structure-3fe5d0e6a5c0), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-maxstack-data-structure)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/4bd3qGxd3), [Solution](https://compiler-explorer.com/z/8aTxGe1bK)
