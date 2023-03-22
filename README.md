@@ -189,6 +189,30 @@ These posts are short-form C++ information posts.
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7040380865629093888-vrWA), [Mastodon](https://hachyderm.io/@simontoth/110005950920004818)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-ref-qualified-methods-bc2c3cdbe52), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-ref-qualified-methods)
     - [Compiler Explorer](https://compiler-explorer.com/z/Ezxsxbnb8)
+- `71.` Selective copy: `std::copy_if`, `std::remove_copy_if`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7041105641645469697-7HmZ), [Mastodon](https://hachyderm.io/@simontoth/110017276096036676)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-copy-if-std-remove-copy-if-33cc6def55a5), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdcopy_if-stdremove_copy_if)
+    - [Compiler Explorer](https://compiler-explorer.com/z/bYnhf54G5)
+- `73.` `std::chrono` - time
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7041830412746158080-HYST), [Mastodon](https://hachyderm.io/@simontoth/110028600125969766)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-chrono-time-fc01bd3e5c38), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdchrono-time)
+    - [Compiler Explorer](https://compiler-explorer.com/z/aa7E88zdG)
+- `74.` `std::chrono` - dates
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7042192806534115328-TSub), [Mastodon](https://hachyderm.io/@simontoth/110034262475899673)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-chrono-date-manipulation-d6bacb8f048b), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdchrono-date-manipulation)
+    - [Compiler Explorer](https://compiler-explorer.com/z/r4rY1PxcK)
+- `75.` `std::chrono` - pseudo-dates
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7042555187541995523-dzXy), [Mastodon](https://hachyderm.io/@simontoth/110039925084545882)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-chrono-working-with-pseudo-dates-6db52752b7d8), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdchrono-working)
+    - [Compiler Explorer](https://compiler-explorer.com/z/37fPdcK1j)
+- `76.` `std::chrono` - timezones
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7042917575785144320-uk10), [Mastodon](https://hachyderm.io/@simontoth/110045587095387907)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-chrono-time-zones-ba1ac2d17918), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdchrono-time-zones)
+    - [Compiler Explorer](https://compiler-explorer.com/z/znxhKdach)
+- `78.` `std::spanstream`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7043642351134593024-Xdet), [Mastodon](https://hachyderm.io/@simontoth/110056911709850794)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-spanstream-c350cdc994a3), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdspanstream)
+    - [Compiler Explorer](https://compiler-explorer.com/z/occYKs4d5)
 
 ## Long-form articles
 
@@ -290,3 +314,19 @@ These posts are common interview problems with a CE link for solving the problem
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7038931309720690688-v6CJ), [Mastodon](https://hachyderm.io/@simontoth/109983301729299275)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-maxstack-data-structure-3fe5d0e6a5c0), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-maxstack-data-structure)
     - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/4bd3qGxd3), [Solution](https://compiler-explorer.com/z/8aTxGe1bK)
+- `70.` Number validator
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7040743248172044288-NJ2k), [Mastodon](https://hachyderm.io/@simontoth/110011613421613853)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-number-validator-77638c667347), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-number-validator)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/KoKsnvveY), [Solution](https://compiler-explorer.com/z/s6vbKnj9T)
+- `72.` LFU cache
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7041456076587692033-IBG7), [Mastodon](https://hachyderm.io/@simontoth/110022937953413521)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-lfu-cache-84d0e2bdae7c), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-lfu-cache)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/T91ezqoh5), [Solution](https://compiler-explorer.com/z/Y7xzTGo6b)
+- `77.` Minimum cost to equal array
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7043279964737011712-WCEA), [Mastodon](https://hachyderm.io/@simontoth/110051249512904859)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-minimum-cost-to-equal-array-cbe7e0db6295), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-minimum-cost-to-equal)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/dedx8Yd68), [Solution](https://compiler-explorer.com/z/7zzWEjT5K)
+- `79.` Maximum number of books to take
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7044004744968728576-2kza), [Mastodon](https://hachyderm.io/@simontoth/110062573983033095)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-maximum-number-of-books-to-take-45d4099fd5c2), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-maximum-number-of-662)
+    - Compiler Explorer: [Solve it yourself](https://compiler-explorer.com/z/ax53xfKTa), [Solution](https://compiler-explorer.com/z/9TeEP5bzs)
