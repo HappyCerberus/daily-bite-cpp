@@ -905,6 +905,14 @@ These posts are short-form C++ information posts.
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7134964109963313152-R6f9), [Mastodon](https://hachyderm.io/@simontoth/111483813937296749)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-fold-expressions-8007bcff8b05), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-fold-expressions)
     - [Compiler Explorer](https://compiler-explorer.com/z/jT6MEKP5K)
+- `332.` `std::as_const`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7135688874525081600-mCr0), [Mastodon](https://hachyderm.io/@simontoth/111495138613778125)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-as-const-bd725cb5d5b0), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-stdas_const)
+    - [Compiler Explorer](https://compiler-explorer.com/z/sP5MeEP6b)
+- `333.` `emplace`, `emplace_back`, `emplace_front`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7136051253146439680-Guf0), [Mastodon](https://hachyderm.io/@simontoth/111500801106483596)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-emplace-emplace-back-emplace-front-4b0fac5907bd), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-emplace-emplace_back)
+    - [Compiler Explorer](https://compiler-explorer.com/z/hz3c8jdMa)
 
 ## Long-form articles
 
@@ -1334,3 +1342,13 @@ These posts are common interview problems with a CE link for solving the problem
 
 - `331.` Day Zero: A C++ development environment
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-2023-day-zero-9b147c6ef027), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-2023)
+- `334.` Day 1
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-1-4cc2cbfd7595), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day)
+- `335.` Day 2
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-2-9829c0f090e2), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-e49)
+- `336.` Day 3
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-3-dd78be092443), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-5ab)
+- `337.` Day 4
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-4-c67a09386932), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-677)
+- `338.` Day 5
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-5-7b8215e7c651), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-3f9)
