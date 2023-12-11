@@ -1352,3 +1352,14 @@ These posts are common interview problems with a CE link for solving the problem
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-4-c67a09386932), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-677)
 - `338.` Day 5
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-5-7b8215e7c651), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-3f9)
+- `339.` Day 6
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-6-533f7cee0e6f), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-04f)
+- `340.` Day 7
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-7-4bc18fc121d8), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-078)
+- `341.` Day 8
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-8-bb4b9d5b308a), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-aaf)
+- `342.` Day 9
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-9-f50217604e34), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-cf0)
+- `343.` Day 10
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-10-fe9161faf789), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-32e)
+
