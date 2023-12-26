@@ -1380,3 +1380,15 @@ These posts are common interview problems with a CE link for solving the problem
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-18-70ca1bdcc72a), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-e9d)
 - `352.` Day 19
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-19-e6381f867816), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-advent-of-code-day-4ea)
+- `353.` Day 20
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-20-23c16a3bb1b8), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-day-290?r=1g4l8a&utm_campaign=post&utm_medium=web)
+- `354.` Day 21
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-21-5408c06052de), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-day-f73?r=1g4l8a&utm_campaign=post&utm_medium=web)
+- `355.` Day 22
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-22-05d72fba63d2), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-day-13d?r=1g4l8a&utm_campaign=post&utm_medium=web)
+- `356.` Day 23
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-23-4d1dda6c79ec), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-day-f2d?r=1g4l8a&utm_campaign=post&utm_medium=web)
+- `357.` Day 24
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-24-3faeef93c982), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-day-31a?r=1g4l8a&utm_campaign=post&utm_medium=web)
+- `358.` Day 25
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-advent-of-code-day-25-5056674ef2ca), [Substack](https://open.substack.com/pub/simontoth/p/daily-bite-of-c-advent-of-code-day-a0d?r=1g4l8a&utm_campaign=post&utm_medium=web)
