@@ -1065,6 +1065,134 @@ These posts are short-form C++ information posts.
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7159244103560347648-LKJE), [Mastodon](https://hachyderm.io/@simontoth/111863188779774526)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-byteswap-62e2c21732e6), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdbyteswap)
     - [Compiler Explorer](https://compiler-explorer.com/z/T9Ejxbfna)
+- `398.` `std::latch`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7159606468063731712-GUb-), [Mastodon](https://hachyderm.io/@simontoth/111868851152828319)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-latch-4f16ab37842c), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdlatch)
+    - [Compiler Explorer](https://compiler-explorer.com/z/j3qvW488b)
+- `399.` Explicit/Full template specialization
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7159968872144453632-HkYW), [Mastodon](https://hachyderm.io/@simontoth/111874513396660590)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-explicit-full-template-specialization-74311bf297f2), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-explicitfull-template)
+    - [Compiler Explorer](https://compiler-explorer.com/z/d8PWaxnW4)
+- `400.` `std::search_n`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7160331264531591169-fgK4), [Mastodon](https://hachyderm.io/@simontoth/111880175621591149)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-search-n-0c8b6a62cdb8), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdsearch_n)
+    - [Compiler Explorer](https://compiler-explorer.com/z/K5Pxvnrvx)
+- `401.` `auto` type deduction
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7160693636844675074-LoMf), [Mastodon](https://hachyderm.io/@simontoth/111885838279466489)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-auto-type-deduction-bbf8ad1c4943), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-auto-type-deduction)
+    - [Compiler Explorer](https://compiler-explorer.com/z/sPnv5G3r4)
+- `402.` `std::move`, `std::move_backward` 
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7161056035103797248-qViU), [Mastodon](https://hachyderm.io/@simontoth/111891500342614782)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-move-std-move-backward-63dddbc0cd22), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdmove-stdmove_backward)
+    - [Compiler Explorer](https://compiler-explorer.com/z/jjfhez8G9)
+- `403.` Heterogenous lookup in ordered containers
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7161418408800976896-MsP6), [Mastodon](https://hachyderm.io/@simontoth/111897162583202028)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-heterogenous-lookup-in-ordered-containers-8d1b8b028d20), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-heterogenous-lookup)
+    - [Compiler Explorer](https://compiler-explorer.com/z/vooYhvGcc)
+- `404.` `std::reverse_copy`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7161780803914440704-UGQY), [Mastodon](https://hachyderm.io/@simontoth/111902825402134248)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-reverse-copy-315db4b477a2), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdreverse_copy)
+    - [Compiler Explorer](https://compiler-explorer.com/z/fqbq7a534)
+- `405.` `decltype(auto)`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7162143183655661568-FSFh), [Mastodon](https://hachyderm.io/@simontoth/111908487325046462)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-decltype-auto-53253ba8417a), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-decltypeauto)
+    - [Compiler Explorer](https://compiler-explorer.com/z/sz5zhY8sv)
+- `406.` `std::find_end`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7162505571311558657-WEGT), [Mastodon](https://hachyderm.io/@simontoth/111914149733175562)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-find-end-da40e39219de), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdfind_end)
+    - [Compiler Explorer](https://compiler-explorer.com/z/Tqj1557dn)
+- `407.` `std::bind_back`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7162867957260361728-xdNC), [Mastodon](https://hachyderm.io/@simontoth/111919811942576565)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-bind-back-dd423747e85b), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdbind_back)
+    - [Compiler Explorer](https://compiler-explorer.com/z/decj9KhTh)
+- `408.` `std::partial_sort`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7163230347961294848-symO), [Mastodon](https://hachyderm.io/@simontoth/111925474174836985)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-partial-sort-8224888ba035), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdpartial_sort)
+    - [Compiler Explorer](https://compiler-explorer.com/z/Kjvj6bE9a)
+- `409.` Heterogenous lookup in unordered containers
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7163592745008279554-hDCv), [Mastodon](https://hachyderm.io/@simontoth/111931136700336845)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-heterogeneous-lookup-in-unordered-containers-42e98bb6cd79), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-heterogeneous-lookup)
+    - [Compiler Explorer](https://compiler-explorer.com/z/f7a9cosYn)
+- `410.` `std::from_chars`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7163955137764384768-JJRp), [Mastodon](https://hachyderm.io/@simontoth/111936799106605189)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-from-chars-9eb8d74514fc), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdfrom_chars)
+    - [Compiler Explorer](https://compiler-explorer.com/z/58z33dG96)
+- `412.` `std::swap_ranges`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7164679898261893120-A-4e), [Mastodon](https://hachyderm.io/@simontoth/111948123813252867)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-swap-ranges-657ae172059b), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdswap_ranges)
+    - [Compiler Explorer](https://compiler-explorer.com/z/849v6sqq5)
+- `413.` Saturation arithmetic
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7165042290929971200-X2zp), [Mastodon](https://hachyderm.io/@simontoth/111953785677958197)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-saturation-arithmetic-6f365a4fb37c), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-saturation-arithmetic)
+    - [Compiler Explorer](https://compiler-explorer.com/z/z4bjj81vP)
+- `414.` `std::exit`, `std::atexit`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7165404675037462530-xPYV), [Mastodon](https://hachyderm.io/@simontoth/111959448037966668)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-exit-std-atexit-1ada1a9ea9ae), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdexit-stdatexit)
+    - [Compiler Explorer](https://compiler-explorer.com/z/o5zqq79sf)
+- `415.` `std::format_to`, `std::format_to_n`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7165767087322341376-Hqk0), [Mastodon](https://hachyderm.io/@simontoth/111965110629575343)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-format-to-std-format-to-n-1ea4062ab678), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdformat_to-stdformat_to_n)
+    - [Compiler Explorer](https://compiler-explorer.com/z/nPej3Gvsb)
+- `416.` `std::getenv`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7166129493248561152-FyRf), [Mastodon](https://hachyderm.io/@simontoth/111970772832934074)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-getenv-03de46f6e837), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdgetenv)
+    - [Compiler Explorer](https://compiler-explorer.com/z/dnd58jhEo)
+- `417.` Concepts are template arguments
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7166491866778030080-2Ivk), [Mastodon](https://hachyderm.io/@simontoth/111976434916589623)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-concepts-as-template-arguments-48b52f9e5a78), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-concepts-as-template)
+    - [Compiler Explorer](https://compiler-explorer.com/z/bqW9jc57z)
+- `418.` `std::forward`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7166854244615073792-8-ed), [Mastodon](https://hachyderm.io/@simontoth/111982097890096664)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-forward-c86cceffc3bc), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdforward)
+    - [Compiler Explorer](https://compiler-explorer.com/z/E5dcPh6T3)
+- `419.` `std::replace_copy`, `std::replace_copy_if`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7167216609747525633-YVlA), [Mastodon](https://hachyderm.io/@simontoth/111987759527279513)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-replace-copy-std-replace-copy-if-3f7496492aaf), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdreplace_copy-stdreplace_copy_)
+    - [Compiler Explorer](https://compiler-explorer.com/z/xoaeerY9M)
+- `420.` `std::shared_ptr` basics
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7167579009088737280-8fq5), [Mastodon](https://hachyderm.io/@simontoth/111993421941227083)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-shared-ptr-basics-bc62c22ce98f), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdshared_ptr-basics)
+    - [Compiler Explorer](https://compiler-explorer.com/z/MPnf5nsen)
+- `421.` `std::views::elements`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7167941396916600832-3uHs), [Mastodon](https://hachyderm.io/@simontoth/111999084268563159)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-views-elements-50d3c9b2be0e), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdviewselements)
+    - [Compiler Explorer](https://compiler-explorer.com/z/nnnTYzK8E)
+- `422.` `std::invoke_r`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7168303791086227456-iVvy), [Mastodon](https://hachyderm.io/@simontoth/112004747057562763)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-invoke-r-04dd9e053554), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdinvoke_r)
+    - [Compiler Explorer](https://compiler-explorer.com/z/81rvT13Mz)
+- `423.` Placeholder name `_`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7168666182454075392-00BP), [Mastodon](https://hachyderm.io/@simontoth/112010408815026140)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-placeholder-name-9cffd238f1ec), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-placeholder-name)
+    - [Compiler Explorer](https://compiler-explorer.com/z/TzfbP1vx8)
+- `424.` Implementing custom memory resources
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7169028549633363970-Kp15), [Mastodon](https://hachyderm.io/@simontoth/112016071466827782)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-custom-memory-resources-1ab4abf88f7d), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-custom-memory-resources)
+    - [Compiler Explorer](https://compiler-explorer.com/z/qcc6eeqK7)
+- `425.` `std::unreachable`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7169390962190852096-5rVM), [Mastodon](https://hachyderm.io/@simontoth/112021733390964125)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-unreachable-b1e4eb7ee0c3), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdunreachable)
+    - [Compiler Explorer](https://compiler-explorer.com/z/xh6h3EMqv)
+- `426.` `std::weak_ptr`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7169753324647354368-IjvI), [Mastodon](https://hachyderm.io/@simontoth/112027395739427075)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-weak-ptr-c2db4cd38cf7), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdweak_ptr)
+    - [Compiler Explorer](https://compiler-explorer.com/z/zPnThWqq3)
+- `427.` `std::istreambuf_iterator`, `std::ostreambuf_iterator`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7170115712349368320-R0-e), [Mastodon](https://hachyderm.io/@simontoth/112033058172530419)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-istreambuf-iterator-std-ostreambuf-iterator-7ea14c1ea94a), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdistreambuf_iterator)
+    - [Compiler Explorer](https://compiler-explorer.com/z/r3PaW9G8x)
+- `428.` `std::forward_like`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7170478106573430786-v0KX), [Mastodon](https://hachyderm.io/@simontoth/112038720332063222)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-forward-like-d924ef2c4099), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdforward_like)
+    - [Compiler Explorer](https://compiler-explorer.com/z/a5h6M184s)
+- `429.` `std::tie`, `std::ignore`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7170840524336140288-3EJM), [Mastodon](https://hachyderm.io/@simontoth/112044383023965511)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-tie-std-ignore-5886edfc39c8), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdtie-stdignore)
+    - [Compiler Explorer](https://compiler-explorer.com/z/bTz7KqPja)
+- `430.` `std::reference_wrapper`, `std::ref`, `std::cref`
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7171202908733091844-0i4m), [Mastodon](https://hachyderm.io/@simontoth/112050044993653453)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-reference-wrapper-std-ref-std-cref-46ebd7aa2009), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdreference_wrapper)
+    - [Compiler Explorer](https://compiler-explorer.com/z/GehcKhd14)
 
 ## Long-form articles
 
@@ -1084,6 +1212,8 @@ These posts are long-form articles on various C++-related topics.
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-linked-lists-f607b8a782f5), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-linked-lists)
 - `384.` Hardened mode of standard library implementations
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-hardened-mode-of-standard-library-implementations-18be2422c372), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-hardened-mode-of)
+- `411.` Implementing custom C++20 views
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-implementing-custom-views-bb21e63a2d4f), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-implementing-custom-d59)
 
 ## Common interview questions
 
