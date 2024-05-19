@@ -1365,6 +1365,10 @@ These posts are short-form C++ information posts.
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7191481503065808897-RvZI), [Mastodon](https://hachyderm.io/@simontoth/112366898711419045)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-thread-314c32e26bc8), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdthread?r=1g4l8a)
     - [Compiler Explorer](https://compiler-explorer.com/z/WTc3oYGoE)
+- `476.` Pack indexing
+    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7192206276892786688-hJ7C), [Mastodon](https://hachyderm.io/@simontoth/112378223260899885)
+    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-pack-indexing-28e52d69c2d7), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-pack-indexing?r=1g4l8a)
+    - [Compiler Explorer](https://compiler-explorer.com/z/nGMfh761n)
 - `477.` `std::ranges::elements_of`
     - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7193655825712709632-285E), [Mastodon](https://hachyderm.io/@simontoth/112400872764252906)
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-std-ranges-elements-of-c6ddec29ccda), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-stdrangeselements_of?r=1g4l8a)
@@ -1394,10 +1398,6 @@ These posts are long-form articles on various C++-related topics.
     - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-coroutines-step-by-step-e726b976d239), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-coroutines-step-by)
 - `474.` Optimizing code to run 87x faster
     - [Medium](https://medium.com/itnext/daily-bit-e-of-c-optimizing-code-to-run-87x-faster-7ef0b5bc64a1), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to?r=1g4l8a)
-- `476.` Pack indexing
-    - [LinkedIn](https://www.linkedin.com/posts/simontoth_cpp-cplusplus-coding-activity-7192206276892786688-hJ7C), [Mastodon](https://hachyderm.io/@simontoth/112378223260899885)
-    - [Medium](https://medium.com/@simontoth/daily-bit-e-of-c-pack-indexing-28e52d69c2d7), [Substack](https://simontoth.substack.com/p/daily-bite-of-c-pack-indexing?r=1g4l8a)
-    - [Compiler Explorer](https://compiler-explorer.com/z/nGMfh761n)
 
 ## Common interview questions
 
